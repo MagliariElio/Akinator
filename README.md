@@ -218,6 +218,6 @@ Akinator/
 
 ## 👤 Autore
 
-Progetto creato da [Elio Magliari](eliomagliari.com)
+Progetto creato da [Elio Magliari](www.eliomagliari.com)
 
 ---
