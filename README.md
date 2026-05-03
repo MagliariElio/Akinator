@@ -127,9 +127,9 @@ Lista delle domande che il sistema può fare:
 
 ```json
 "questions": [
-  "Il personaggio è reale?",
-  "È un videogioco?",
-  "È italiano?"
+  "È famoso a livello mondiale?",
+  "È un supereroe?",
+  "È un villain?"
 ]
 ```
 
@@ -200,10 +200,8 @@ Akinator/
 ├── resources/
 │   └── data.json        # database del gioco
 │
-├── src/main/
-│   └── script.py        # entry point
-│
-└── .venv/               # ambiente virtuale Python
+└── src/main/
+    └── script.py        # entry point
 ```
 
 ---
