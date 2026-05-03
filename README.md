@@ -1,7 +1,7 @@
 
 # 🎮 Akinator Clone (Guessing Game)
 
-Questo progetto è un clone semplificato di Akinator basato su probabilità bayesiane.
+Questo progetto è un clone di Akinator basato su probabilità bayesiane.
 Il sistema prova a indovinare il personaggio a cui stai pensando facendoti una serie di domande.
 Non utilizza nessuna Intelligenza Artificiale, non gli serve... è già bravo così! 💅🏼  
 Provalo!
